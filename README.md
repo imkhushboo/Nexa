@@ -1,6 +1,6 @@
-**NextWaveBlogs
+## Nexa
 
-#Overview
+# Overview
 
 This full-stack web application, developed with Next.js 13, MongoDB, and API Auth.js, offers a feature-rich platform for users to manage their blogs, explore community-authored content, and connect with the admin. The project supports Google and GitHub authentication, ensuring secure storage of user credentials in a hashed format.
 
@@ -17,7 +17,7 @@ Explore blogs published by other users.
 View the admin's work portfolio.
 Messaging:**
 
-**Users can send messages to get in touch with the admin.
+** Users can send messages to get in touch with the admin.
 Technologies Used
 Next.js 13
 MongoDB
@@ -32,5 +32,5 @@ Run the development server with npm run dev.
 Contributions
 Contributions are welcome! Feel free to open issues or pull requests.**
 
-**License
+* License
 This project is licensed under the MIT License**
